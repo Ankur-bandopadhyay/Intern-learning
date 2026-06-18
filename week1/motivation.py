@@ -6,8 +6,7 @@ quotes = [
     "The only way to do great work is to love what you do. — Steve Jobs",
     "The future depends on what you do today. — Mahatma Gandhi",
     "Don't watch the clock; do what it does. Keep going. — Sam Levenson",
-    "Keep your face always toward the sunshine—and shadows will fall behind you. — Walt Whitman",
-    "if youre good at something never do it for free. — The Joker"
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill",
 ]
 
 def main():

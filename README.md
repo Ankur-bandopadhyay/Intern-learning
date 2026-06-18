@@ -1,6 +1,6 @@
 # Intern Learning
 
-Hi, I'm Ankur Bandopadhya . I'm currently doing a 4-week AI internship program focused on building practical skills in Python, Git/GitHub workflows, and AI tooling.
+Hi, I'm Ankur Bandopadhyay . I'm currently doing a 4-week AI internship program focused on building practical skills in Python, Git/GitHub workflows, and AI tooling.
 
 ## About the Program
 This repository holds all assignments and scripts completed during the 4-week internship, organized by week:

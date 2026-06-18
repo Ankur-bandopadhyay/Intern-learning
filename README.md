@@ -15,4 +15,3 @@ This repository holds all assignments and scripts completed during the 4-week in
 - Build strong fundamentals in Python and Git/GitHub workflows
 - Get comfortable with everyday AI/ML tooling
 - Document and commit weekly progress consistently
-- Build at least one small end-to-end project by the end of the internship

@@ -7,6 +7,8 @@ quotes = [
     "The future depends on what you do today. — Mahatma Gandhi",
     "Don't watch the clock; do what it does. Keep going. — Sam Levenson",
     "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill",
+    "practice makes perfect. — Vince Lombardi",
+    "if youre good at something never do it for free. — joker",
 ]
 
 def main():

@@ -19,6 +19,7 @@ function App(){
   return(
     <div>
       <h1>Notes App</h1>
+      <p>{notes.length} note{notes.length !== 1 ? "s" : ""}</p>
       <input
         value={input}
         onChange={(e) => setInput(e.target.value)}

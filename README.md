@@ -19,4 +19,7 @@ This repository holds all assignments and scripts completed during the 4-week in
 ## Day 3: CLI To-Do App
 A simple command-line to-do list that saves tasks to 'tasks.json'.
 
+## Day 4: React Notes App
+A browser-based notes app built with React and Vite.
+
 **Setup:**

@@ -22,4 +22,8 @@ A simple command-line to-do list that saves tasks to 'tasks.json'.
 ## Day 4: React Notes App
 A browser-based notes app built with React and Vite.
 
-**Setup:**
+## Day 5: Dockerized FastAPI Endpoint
+
+A FastAPI app with a `/about` endpoint returning name and skills, containerized with Docker.
+
+**Build and run:**

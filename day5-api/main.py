@@ -2,8 +2,8 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/about")
-def about():
+@app.get("/details")
+def details():
     return {
         "name": "Ankur Bandopadhyay",
         "skills": [

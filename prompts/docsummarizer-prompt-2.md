@@ -1,11 +1,17 @@
-# Case [2]: [Docs Summarizer]
+﻿# Case [2]: [Docs Summarizer]
 
 ## The Prompt
 **Final Prompt (v2):**
-> [Taking reference of the document,in JSON form summarize the doc which will be like:
- { summary(what is it about):1to2 line maximum,
-  usecase:only 2 required, functionalities: any 3,
-   deliverable[final output what the user sees]:brief 2 line }]
+> [
+  You are a precise technical summarizer.
+  Read the document below and respond ONLY with valid JSON (no markdown fences, no extra text) in this exact schema:
+
+  {
+    "title": "short inferred title of the document",
+    "summary": "3-4 sentence summary of the key content",
+    "key_points": ["point 1", "point 2", "point 3"],
+    "word_count": <integer, original document word count>
+  }]
 
 ---
 
@@ -28,18 +34,16 @@
 ## Example Output
 
 {
-  "summary": "A 2D side-scrolling shooter game developed using Python and Pygame that demonstrates object-oriented programming, game physics, enemy AI, collision detection, and tile-based level design.",
+"title": "Data Migration Protocol v2",
 
-  "usecase": [
-    "Learning and demonstrating game development concepts using Python and Pygame.",
-    "Serving as a foundation for building more advanced 2D action or platformer games."
-  ],
+"summary": "This document outlines the updated procedures for migrating legacy databases to the new cloud infrastructure. It details the pre-migration validation steps, the automated transfer process using the new MigrationCLI tool, and post-migration integrity checks. The update aims to reduce downtime by 40% and ensure zero data loss during transitions.",
 
-  "functionalities": [
-    "Player movement, jumping, shooting, and grenade mechanics with physics-based interactions.",
-    "Enemy AI featuring patrol, idle, and attack behaviors with player detection.",
-    "Multi-level progression using CSV-based tile maps, item pickups, and HUD elements."
-  ],
+"key_points": [
+"Pre-migration validation requires running the schema-check script.",
+"MigrationCLI is now the mandatory tool for all automated data transfers.",
+"Post-migration integrity checks must be signed off by a senior DBA."
+],
 
-  "deliverable": "A fully playable 2D scrolling shooter game featuring multiple levels, enemy combat, collectible items, animated sprites, and smooth side-scrolling gameplay. Users interact through a graphical game interface with real-time combat, health tracking, and level progression."
+"word_count": 450
+
 }

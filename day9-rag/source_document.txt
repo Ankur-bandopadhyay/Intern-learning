@@ -1,0 +1,47 @@
+About Andolasoft
+
+Andolasoft is a software company that builds web and mobile applications for clients across healthcare, real estate, and e-commerce industries. The company was founded with a focus on combining agile development practices with dedicated offshore teams. Andolasoft's engineering culture emphasizes code quality, peer review, and continuous learning for all developers, from interns to senior architects.
+
+Leave and HR Policy
+
+Our HR policy states that employees get 18 days of paid leave per year, in addition to public holidays observed by the company. Leave requests must be submitted through the internal HR portal at least three working days in advance, except in cases of medical emergencies. Unused leave in a calendar year can be carried forward up to a maximum of 5 days into the next year, after which any remaining balance is forfeited.
+
+Password Reset Process
+
+The password reset process requires going to the login page and clicking Forgot Password. Employees will receive a reset link on their registered company email address, valid for 30 minutes. If the link expires or the email is not received within 10 minutes, employees should check their spam folder or contact IT support directly. Passwords must be at least 10 characters long and include a mix of uppercase letters, numbers, and symbols.
+
+Two-Factor Authentication
+
+Two-factor authentication is mandatory for all admin accounts and for any employee accessing client production systems. Employees can set up two-factor authentication using an authenticator app such as Google Authenticator or Microsoft Authenticator. Accounts that do not have two-factor authentication enabled within 7 days of account creation will be automatically locked until the employee completes setup with IT support.
+
+Office Hours and Attendance
+
+Office hours are Monday to Thursday, 9am to 6pm. The office is closed on Fridays, which are reserved for remote work and focused individual tasks. Employees are expected to log their attendance through the internal timesheet tool daily. Repeated unexplained absences may be flagged to the reporting manager for follow-up.
+
+IT Support
+
+For IT support, raise a ticket at support.andolasoft.com or email helpdesk@andolasoft.com. Standard tickets are addressed within one business day, while critical issues affecting client-facing systems are prioritized and typically resolved within 2 hours. The IT team also holds a weekly office-hours session on Wednesdays for employees who prefer in-person troubleshooting.
+
+Onboarding Process
+
+New employees must complete onboarding within the first 30 days of joining. Onboarding includes setting up development environments, completing mandatory security training, and being assigned a mentor from their team. HR conducts a 30-day check-in call to gather feedback on the onboarding experience and address any outstanding concerns.
+
+Code Review Policy
+
+All code must be reviewed by at least one senior developer before merging into the main branch. Pull requests should include a clear description of the change, relevant test coverage, and a link to the associated task or ticket. Reviewers are expected to respond to pull requests within 24 hours to avoid blocking development progress.
+
+Client Communication Guidelines
+
+Employees working directly with clients are expected to maintain professional and timely communication at all times. Status updates should be shared with clients at least twice a week, either through email or the agreed project management tool. Any scope changes or delays must be communicated to the client as soon as they are identified, along with a revised timeline.
+
+Performance Reviews
+
+Performance reviews are conducted twice a year, in June and December. Reviews are based on a combination of self-assessment, peer feedback, and manager evaluation across technical skills, collaboration, and ownership of assigned tasks. Employees receiving a rating below expectations are placed on a structured improvement plan with clear, time-bound goals.
+
+Expense Reimbursement
+
+Employees can claim reimbursement for approved business expenses such as client travel, software subscriptions required for work, and internet costs for remote work days. Expense claims must be submitted through the finance portal within 15 days of the expense being incurred, along with valid receipts. Claims submitted after 30 days may be rejected unless prior approval was obtained from a manager.
+
+Learning and Development
+
+Andolasoft encourages continuous learning through an internal learning budget of a fixed amount per employee per year, which can be used for online courses, certifications, or technical books. Employees are also encouraged to share knowledge through internal tech talks held on the last Friday of every month. Completion of relevant certifications may be considered during performance reviews as evidence of technical growth.
